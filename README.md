@@ -67,7 +67,7 @@ app
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/GrupoJambeeApp.git
+   git clone https://github.com/AlexisZhuber/GrupoJambeeApp.git
    ```
 2. **Open in Android Studio**:
    - File > Open > Select the cloned folder.
